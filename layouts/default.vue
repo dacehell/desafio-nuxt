@@ -102,6 +102,11 @@ export default {
           icon: 'mdi-chart-bubble',
           title: 'Eventos',
           to: '/Events'
+        },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'RickMorty',
+          to: '/RickMorty'
         }
       ],
       miniVariant: false,
